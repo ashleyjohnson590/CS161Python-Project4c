@@ -1,0 +1,178 @@
+Assignment 4 Rubric (1)
+Criteria	Ratings	Pts
+Code Style Deductions: Used single letter variable names. Known math symbols are okay. (-2 Points)
+0 pts
+Full Marks
+Meets style guidelines
+0 pts
+Point Deduction
+Comments
+As per the Code Style Guidelines, you should not use single-letter variable names.
+-2 / 0 pts
+Code Style Deductions: Did not follow name case conventions such as snake_case. (-1 Point)
+0 pts
+Full Marks
+Meets style guidelines
+0 pts
+Point Deduction
+Comments
+instead of a variable name like 'currentnum' you should use 'current_num' since we are following snake_case guidelines for this class as per the Code Style Guidelines
+-1 / 0 pts
+Code Style Deduction: Each wrong file/function/class name. (-1 Point each)
+0 pts
+Full Marks
+Meets style guidelines
+0 pts
+Point Deduction
+0 / 0 pts
+Code Style Deductions: For each file without required comment headers. (Including inaccurate descriptions.) (-1 Point)
+0 pts
+Full Marks
+Meets style guidelines
+0 pts
+Point Deduction
+0 / 0 pts
+Un-covered Material: Used materials not yet covered in the class. (-3 Points)
+0 pts
+Full Marks
+Used only approved materials
+0 pts
+Point Deduction
+Used un-covered materials
+0 / 0 pts
+Code Style Deductions: For each function without a required docstring. (Including inaccurate descriptions.) (-1 Point)
+0 pts
+Full Marks
+Meets style guidelines
+0 pts
+Point Deduction
+0 / 0 pts
+Project 4a: Formatted function correctly. (Colon, indentation, at least one blank line after.)
+6 to >5 pts
+Full Marks
+5 to >0 pts
+Partial Marks
+0 pts
+No Marks
+6 / 6 pts
+Project 4a: Created a parameter for seconds.
+4 pts
+Full Marks
+0 pts
+No Marks
+4 / 4 pts
+Project 4a: Parameter name was descriptive.
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Project 4a: Expression correctly calculated the distance.
+4 pts
+Full Marks
+0 pts
+No Marks
+4 / 4 pts
+Project 4a: Returned the correct value. Did not just print value.
+4 pts
+Full Marks
+0 pts
+No Marks
+4 / 4 pts
+Project 4b: Formatted function correctly. (Colon, indentation, at least one blank line after.)
+5 to >4 pts
+Full Marks
+4 to >0 pts
+Partial Marks
+0 pts
+No Marks
+5 / 5 pts
+Project 4b: Created a parameter for position.
+4 pts
+Full Marks
+0 pts
+No Marks
+4 / 4 pts
+Project 4b: Parameter name was descriptive.
+2 pts
+Full Marks
+0 pts
+No Marks
+Comments
+In the future please remember to use descriptive variable names. "fib_number" is a much better variable name than "n"
+0 / 2 pts
+Project 4b: Used a loop to correctly calculate the value for a position in the sequence.
+6 to >5 pts
+Full Marks
+5 to >0 pts
+Partial Marks
+0 pts
+No Marks
+6 / 6 pts
+Project 4b: Returned the correct value. Did not just print value.
+3 pts
+Full Marks
+0 pts
+No Marks
+3 / 3 pts
+Project 4b DEDUCTION: Used recursion or the golden ratio to calculate value instead of a loop. (-3 Points)
+0 pts
+Full Marks
+0 pts
+No Marks
+0 / 0 pts
+Project 4c: Formatted function correctly. (Colon, indentation, at least one blank line after.)
+5 to >4 pts
+Full Marks
+4 to >0 pts
+Partial Marks
+0 pts
+No Marks
+5 / 5 pts
+Project 4c: Created a parameter for initial value.
+4 pts
+Full Marks
+0 pts
+No Marks
+4 / 4 pts
+Project 4c: Parameter name was descriptive.
+2 pts
+Full Marks
+0 pts
+No Marks
+Comments
+In the future please remember to use descriptive variable names. "start_number" is a much better variable name than "n"
+0 / 2 pts
+Project 4c: Correctly calculated the number of steps for the sequence to reach its first 1.
+6 to >5 pts
+Full Marks
+5 to >0 pts
+Partial Marks
+0 pts
+No Marks
+6 / 6 pts
+Project 4c: Returned the correct number of steps. Did not just print value.
+3 pts
+Full Marks
+0 pts
+No Marks
+3 / 3 pts
+Project 4c DEDUCTION: Used recursion instead of creating an iterative solution. (-3 Points)
+0 pts
+Full Marks
+0 pts
+No Marks
+0 / 0 pts
+Late Project Deduction (within 48 hours)
+0 pts
+Full Marks
+0 pts
+Point Deduction
+0 / 0 pts
+Deduction: Typos/incorrect formatting (Including extraneous/incorrect print statements). (-6 Points)
+0 pts
+Full Marks
+0 pts
+Point Deduction
+0 / 0 pts
+Total Points: 53
